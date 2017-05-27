@@ -1,0 +1,10 @@
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\bin\Debug\Hotel.exe.config
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\bin\Debug\Hotel.exe
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\bin\Debug\Hotel.pdb
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.exe
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.pdb
+c:\users\lala.m\documents\visual studio 2015\Projects\Hotel\Hotel\obj\Debug\Hotel.HomePage.resources
